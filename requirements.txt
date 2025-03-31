@@ -1,0 +1,6 @@
+# update pypi project
+# python -m build
+# python -m twine upload --repository testpypi dist/* --verbose
+
+# install pypi project ->
+# python -m pip install --index-url https://test.pypi.org/simple/  --no-deps neuropipeline2
