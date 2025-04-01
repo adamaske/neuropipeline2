@@ -41,7 +41,3 @@ dev = [
     "pytest",
     "flake8",
 ]
-
-[testpypi]
-username = "testadamaske"
-password = "674aeyrrRR-"
